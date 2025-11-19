@@ -1,6 +1,6 @@
 # Segway Ninebot Scooters Data
 
-A comprehensive JSON database of Segway Ninebot electric scooter specifications and information. This repository provides easy access to detailed technical specifications for various Segway Ninebot scooter models, organized by series.
+JSON data for Segway Ninebot electric scooter specifications, organized by series.
 
 ## Purpose
 
