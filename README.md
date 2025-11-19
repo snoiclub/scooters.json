@@ -56,44 +56,28 @@ Base URL format:
 https://raw.githubusercontent.com/snoiclub/scooters.json/master/
 ```
 
-### E2 Series
+**Endpoints:**
 
-- **E2 E**: `https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/e2-series/e2_e.json`
-- **E2 E II**: `https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/e2-series/e2_e_ii.json`
-- **E2 Plus E II**: `https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/e2-series/e2_plus_e_ii.json`
-- **E2 Pro E**: `https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/e2-series/e2_pro_e.json`
-
-### E3 Series
-
-- **E3 E**: `https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/e3-series/e3_e.json`
-- **E3 Pro E**: `https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/e3-series/e3_pro_e.json`
-
-### F2 Series
-
-- **F2 E**: `https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/f2-series/f2_e.json`
-- **F2 E II**: `https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/f2-series/f2_e_ii.json`
-- **F2 Plus E**: `https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/f2-series/f2_plus_e.json`
-- **F2 Pro E**: `https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/f2-series/f2_pro_e.json`
-- **F2 Pro E II**: `https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/f2-series/f2_pro_e_ii.json`
-
-### F3 Series
-
-- **F3 E**: `https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/f3-series/f3_e.json`
-- **F3 Pro E**: `https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/f3-series/f3_pro_e.json`
-
-### GT3 Series
-
-- **Segway GT3 E**: `https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/gt3-series/segway_gt3_e.json`
-- **Segway GT3 Pro**: `https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/gt3-series/segway_gt3_pro.json`
-
-### MAX Series
-
-- **MAX G2 E**: `https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/max-series/max_g2_e.json`
-- **MAX G3 E**: `https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/max-series/max_g3_e.json`
-
-### ZT Series
-
-- **ZT3 Pro E**: `https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/zt-series/zt3_pro_e.json`
+| Series | Model | Endpoint |
+|--------|-------|----------|
+| E2 | E2 E | [View JSON](https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/e2-series/e2_e.json) |
+| E2 | E2 E II | [View JSON](https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/e2-series/e2_e_ii.json) |
+| E2 | E2 Plus E II | [View JSON](https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/e2-series/e2_plus_e_ii.json) |
+| E2 | E2 Pro E | [View JSON](https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/e2-series/e2_pro_e.json) |
+| E3 | E3 E | [View JSON](https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/e3-series/e3_e.json) |
+| E3 | E3 Pro E | [View JSON](https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/e3-series/e3_pro_e.json) |
+| F2 | F2 E | [View JSON](https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/f2-series/f2_e.json) |
+| F2 | F2 E II | [View JSON](https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/f2-series/f2_e_ii.json) |
+| F2 | F2 Plus E | [View JSON](https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/f2-series/f2_plus_e.json) |
+| F2 | F2 Pro E | [View JSON](https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/f2-series/f2_pro_e.json) |
+| F2 | F2 Pro E II | [View JSON](https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/f2-series/f2_pro_e_ii.json) |
+| F3 | F3 E | [View JSON](https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/f3-series/f3_e.json) |
+| F3 | F3 Pro E | [View JSON](https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/f3-series/f3_pro_e.json) |
+| GT3 | Segway GT3 E | [View JSON](https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/gt3-series/segway_gt3_e.json) |
+| GT3 | Segway GT3 Pro | [View JSON](https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/gt3-series/segway_gt3_pro.json) |
+| MAX | MAX G2 E | [View JSON](https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/max-series/max_g2_e.json) |
+| MAX | MAX G3 E | [View JSON](https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/max-series/max_g3_e.json) |
+| ZT | ZT3 Pro E | [View JSON](https://raw.githubusercontent.com/snoiclub/scooters.json/master/data/zt-series/zt3_pro_e.json) |
 
 ## Images
 
@@ -104,8 +88,8 @@ https://raw.githubusercontent.com/snoiclub/scooters.json/master/images/{model_id
 ```
 
 Example:
-- `https://raw.githubusercontent.com/snoiclub/scooters.json/master/images/e2_e.png`
-- `https://raw.githubusercontent.com/snoiclub/scooters.json/master/images/f3_pro_e.png`
+- [e2_e.png](https://raw.githubusercontent.com/snoiclub/scooters.json/master/images/e2_e.png)
+- [f3_pro_e.png](https://raw.githubusercontent.com/snoiclub/scooters.json/master/images/f3_pro_e.png)
 
 ## Contributing
 
